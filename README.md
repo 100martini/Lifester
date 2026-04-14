@@ -8,7 +8,7 @@
 
 ## What is this?
 
-It's a Star Wars-themed space game shooter where the monsters aren't aliens from outer space —  
+It's a Star Wars-themed space shooter 2D game where the monsters aren't aliens from outer space —  
 they're the ones from *inside* you. Depression, fear, doubt, your 3 AM thoughts, that email you still haven't replied to.
 
 You shoot them. With a spaceship. And it's oddly therapeutic.
