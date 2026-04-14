@@ -1,0 +1,12 @@
+#pane{
+    -fx-background-image: url("Pictures/starwarsbg.jpg");
+}
+#root{
+    -fx-background-image: url("Pictures/starwarsbg.jpg");
+}
+#btn{
+    -fx-background-color: red;
+}
+#stage3{
+    -fx-background-image: url("Pictures/starwarsbg.jpg");
+}
